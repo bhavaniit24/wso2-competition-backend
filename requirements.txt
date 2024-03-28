@@ -1,0 +1,6 @@
+fastapi==0.103.2
+firebase_admin==6.2.0
+pydantic
+uvicorn==0.13.4
+openai
+langchain

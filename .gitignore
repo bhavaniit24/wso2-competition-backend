@@ -1,0 +1,16 @@
+# FastAPI
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg-info
+*.egg
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+.vscode/
+__pycache__/
